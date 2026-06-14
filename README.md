@@ -3,11 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=Piyush%20Thakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter&descAlignY=58&descSize=18" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+B.Tech+Student;Building+Real+Products%2C+Not+Just+Tutorials;GSAP+%7C+Vanilla+JS+%7C+Full+Stack+in+Progress;Code.+Break.+Learn.+Ship.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Product+Builder+%7C+B.Tech+Student;Building+Real+Products%2C+Not+Just+Tutorials;GSAP+%7C+Vanilla+JS+%7C+Full+Stack+in+Progress;Code.+Break.+Learn.+Ship.+Repeat." />
 </p>
 
-[![GitHub followers](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush-Thakurr&theme=tokyonight)](https://github.com/Piyush-Thakurr)
-[![Profile views](https://komarev.com/ghpvc/?username=Piyush-Thakurr&style=for-the-badge&color=D4AF37)](https://github.com/Piyush-Thakurr)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Piyush-Thakurr?label=Followers&style=for-the-badge&color=D4AF37" />
+  <img src="https://komarev.com/ghpvc/?username=Piyush-Thakurr&style=for-the-badge&color=D4AF37" />
+</p>
 
 </div>
 
