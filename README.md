@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+B.Tech+Student;Building+Real+Products%2C+Not+Just+Tutorials;GSAP+%7C+Vanilla+JS+%7C+Full+Stack+in+Progress;Code.+Break.+Learn.+Ship.+Repeat." />
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Piyush-Thakurr?style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/Piyush-Thakurr)
+[![GitHub followers](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush-Thakurr&theme=tokyonight)](https://github.com/Piyush-Thakurr)
 [![Profile views](https://komarev.com/ghpvc/?username=Piyush-Thakurr&style=for-the-badge&color=D4AF37)](https://github.com/Piyush-Thakurr)
 
 </div>
