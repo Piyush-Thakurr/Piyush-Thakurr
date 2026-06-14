@@ -1,77 +1,116 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">Aspiring Software Engineer | Open Source Learner | Tech Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Learning+by+Building;Open+Source+Enthusiast;Future+Full+Stack+Developer;Consistency+%3E+Motivation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=200&section=header&text=Piyush%20Thakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter&descAlignY=58&descSize=18" />
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+B.Tech+Student;Building+Real+Products%2C+Not+Just+Tutorials;GSAP+%7C+Vanilla+JS+%7C+Full+Stack+in+Progress;Code.+Break.+Learn.+Ship.+Repeat." />
 </p>
 
----
+[![GitHub followers](https://img.shields.io/github/followers/Piyush-Thakurr?style=for-the-badge&color=D4AF37&labelColor=0d1117)](https://github.com/Piyush-Thakurr)
+[![Profile views](https://komarev.com/ghpvc/?username=Piyush-Thakurr&style=for-the-badge&color=D4AF37)](https://github.com/Piyush-Thakurr)
 
-## 🚀 About Me
-- 🎓 B.Tech student passionate about biomed & problem solving**
-- 💡 Exploring **Open Source**, **Web Development**, and **DSA**
-- 🔭 Currently improving my **real-world project skills**
-- ⚡ Belief: *Small daily progress beats talent*
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## 👋 Hey, I'm Piyush
 
-### 💻 Languages
+B.Tech student who builds real things — not just follows tutorials. Currently focused on shipping production-quality frontend work and growing into full stack development.
+
+- 🎨 Built **Stutee's Gallery** — a full premium art e-commerce platform with GSAP scroll animations, SVG brush-stroke canvas reveals, OTP authentication, persistent cart, multi-step checkout, and live order tracking. All vanilla JS, zero frameworks.
+- 🧠 Learning **DSA**, **Node.js + Express**, and **System Design** — in that order, intentionally.
+- 🔭 Next goal: add a real backend to the gallery (REST API + MongoDB + Razorpay)
+- ⚡ Belief: *A live project someone can open on their phone beats 500 commits.*
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### 🌐 Web
+**Frontend**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🛠 Tools & Platforms
+**Tools & Platforms**
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
+**Currently Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
 ---
 
-## 🌱 Currently Learning
-- Open Source contribution workflows
-- Data Structures & Algorithms
-- Full Stack Development (React → Backend)
+## 🚀 Featured Projects
+
+### 🎨 [Stutee's Gallery](https://piyush-thakurr.github.io/stutees-gallery/)
+> Premium fine art e-commerce exhibition — built entirely in vanilla HTML, CSS & JS
+
+- GSAP ScrollTrigger 3-phase scroll animation with SVG brush-stroke painting reveal
+- OTP-based phone authentication with user profile, order history & live tracking
+- Persistent cart system synced across localStorage + sessionStorage
+- Multi-step checkout with GST calculation, shipping logic & order confirmation
+- Fully responsive — desktop scroll-pinned experience + mobile fallback
+
+`HTML` `CSS` `JavaScript` `GSAP` `SVG Animation` `LocalStorage`
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhdevelops&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhdevelopsE&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Thakurr&show_icons=true&theme=tokyonight&border_color=D4AF37&title_color=D4AF37&icon_color=D4AF37" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-Thakurr&theme=tokyonight&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhdevelops&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Thakurr&layout=compact&theme=tokyonight&border_color=D4AF37&title_color=D4AF37" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
--
+## 🗺 What's Next
 
-*(More coming soon 🚀)*
+```
+✅ Frontend complete — Stutee's Gallery (live)
+🔄 Backend — Node.js + Express REST API
+⏳ Payments — Razorpay integration
+⏳ Database — MongoDB for users + orders
+⏳ Deployment — Railway / Render
+⏳ DSA — 150+ LeetCode problems
+⏳ Open Source — first merged PR
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
+
 <p>
-  <a href="https://github.com/Piyush-thakurr">
+  <a href="https://github.com/Piyush-Thakurr">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/piyush-thakur-6b989b331">
+  <a href="https://www.linkedin.com/in/piyush-thakur-6b989b331">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
+📬 Open to collaboration, open source, and interesting projects.
+
 ---
 
-<p align="center">
-  💬 <i>"Code. Break. Learn. Repeat."</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer" />
+
+</div>
